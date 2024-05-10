@@ -1,0 +1,1 @@
+export const googleAPIKey = import.meta.env.VITE_MAPKEY;

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "COX'S BAZAR",
+        "explanation": "Cox's Bazar is a town on the southeastern coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south.",
+        "image": "Sajek.png"
+    },
+    {
+        "id": 2,
+        "name": "SREEMANGAL",
+        "explanation": "Sreemangal is a town located in the Moulvibazar District of Bangladesh. It is known as the 'Tea Capital of Bangladesh' due to its vast tea gardens.",
+        "image": "Sreemongol.png"
+    },
+    {
+        "id": 3,
+        "name": "SUNDARBAN",
+        "explanation": "The Sundarbans is a vast mangrove forest located in the delta region of the Padma, Meghna, and Brahmaputra river basins. It is known for its rich biodiversity, including the Bengal tiger.",
+        "image": "/sundorbon.png"
+    }
+]
